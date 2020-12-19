@@ -1,0 +1,13 @@
+In total, there were 400 different temperatures recorded into the dataset. 
+Doing a quick google search says that the average temperature of an adult body can range from 97 degrees to 99 degrees. 
+The average of all data points in this set is 99.185. 
+This is just above what is considered the healthy average. 
+The average of group A is 102.401 degreed which is well into moderate fever temperatures. 
+The average of group B is only 96.8798 degrees which is a safe body temperature.If anything over 99 degrees counts as a fever temperature, that means that anybody in group A has a fever.
+Group A consists of 167 out of 400 total people in the dataset.
+If these people were chosen randomly, then is is a crazy amount of people to have a fever.
+Most likely, this means that this dataset is taken from people who are suspected of being sick.
+That would explain why so many of them have fevers.
+
+-Zachary McMillan
+101875517
